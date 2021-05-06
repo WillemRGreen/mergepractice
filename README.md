@@ -1,1 +1,2 @@
-practicing merge on feature 2. fixing merge conflict
+
+practicing merge. this is the file to keep
